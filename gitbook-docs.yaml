@@ -6,5 +6,7 @@ site:
     - type: space
       key: htb-docs
       title: Hack the box
+      path: htb-docs
+      default: true
       content:
         directory: ./
