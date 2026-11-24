@@ -1,0 +1,10 @@
+site:
+  title: Hack the box
+  structure:
+    - type: space
+      key: htb-docs
+      title: Hack the box
+      content:
+        directory: ./
+        readme: README.md
+        summary: SUMMARY.md
